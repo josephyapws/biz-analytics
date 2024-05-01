@@ -1,3 +1,3 @@
 # biz-analytics
-Data Analytics or Business Analyses
-Various reports and generators for business
+1. Project management: Scrumban;
+2. BI / Market analytics of various reports and generators for continuous business improvement.
